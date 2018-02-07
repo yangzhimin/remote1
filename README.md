@@ -6,3 +6,6 @@ feature1
 
 fast-forward
 again
+
+no-ff
+again
